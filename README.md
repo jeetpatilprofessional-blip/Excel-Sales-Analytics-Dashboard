@@ -1,5 +1,9 @@
 # Sales Analytics Dashboard | Microsoft Excel
 
+## Dashboard Preview
+
+![Dashboard](Dashboard.png)
+
 ## Project Overview
 This project focuses on analysing sales performance and transforming raw sales data into an interactive dashboard using Microsoft Excel.
 
